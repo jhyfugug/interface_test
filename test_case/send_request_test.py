@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2022/3/7 2:08 上午
 # @Author  : jhyfugug
-# @File    : test_send_request.py
+# @File    : send_request_test.py
 import pytest
 import requests
 
